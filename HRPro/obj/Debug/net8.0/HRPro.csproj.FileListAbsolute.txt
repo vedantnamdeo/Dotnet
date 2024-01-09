@@ -1,0 +1,21 @@
+C:\Dotnet\HRPro\bin\Debug\net8.0\HRPro.exe
+C:\Dotnet\HRPro\bin\Debug\net8.0\HRPro.deps.json
+C:\Dotnet\HRPro\bin\Debug\net8.0\HRPro.runtimeconfig.json
+C:\Dotnet\HRPro\bin\Debug\net8.0\HRPro.dll
+C:\Dotnet\HRPro\bin\Debug\net8.0\HRPro.pdb
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.AssemblyInfoInputs.cache
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.AssemblyInfo.cs
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.csproj.CoreCompileInputs.cache
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.dll
+C:\Dotnet\HRPro\obj\Debug\net8.0\refint\HRPro.dll
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.pdb
+C:\Dotnet\HRPro\obj\Debug\net8.0\HRPro.genruntimeconfig.cache
+C:\Dotnet\HRPro\obj\Debug\net8.0\ref\HRPro.dll
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\HRPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\HRPro.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\HRPro.AssemblyInfo.cs
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\HRPro.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\HRPro.dll
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\refint\HRPro.dll
+C:\Users\hp\Desktop\IACSD Notes\Dotnet\HRPro\obj\Debug\net8.0\HRPro.pdb
